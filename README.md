@@ -85,11 +85,20 @@ Here are some of the visuals generated during training and evaluation:
 - Feature Importance  
 - Accuracy Score  
 - Sample Prediction
+  
 ![Screenshot (2539)](https://github.com/user-attachments/assets/29693b81-f1b0-45e4-b3ee-96f95e11be82)
+
 
 ![Screenshot (2540)](https://github.com/user-attachments/assets/11a4eae1-e8ca-4595-9261-2ab084249822)
 
 
+![project_output_confusion_matrix](https://github.com/user-attachments/assets/623b9431-a653-4280-a81b-e5385952bad5)
+
+
+![project_output_accuracy](https://github.com/user-attachments/assets/0c89f064-2dc5-46fc-b3fd-4c833d8152d3)
+
+
+![project_output_feature_importance](https://github.com/user-attachments/assets/04bd938e-c48c-4692-8544-59d846b5b966)
 
 ## 🔮 Future Scope
 
@@ -102,7 +111,7 @@ Here are some of the visuals generated during training and evaluation:
 
 ## 🤝 Contributors
 
-- **Your Name** – Tulsi Gupta
+- Tulsi Gupta
 - Edunet Foundation / AICTE – Internship project
 
 ---
