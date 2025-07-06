@@ -85,10 +85,11 @@ Here are some of the visuals generated during training and evaluation:
 - Feature Importance  
 - Accuracy Score  
 - Sample Prediction
+![Screenshot (2539)](https://github.com/user-attachments/assets/29693b81-f1b0-45e4-b3ee-96f95e11be82)
 
-All are located in the `output_images/` folder.
+![Screenshot (2540)](https://github.com/user-attachments/assets/11a4eae1-e8ca-4595-9261-2ab084249822)
 
----
+
 
 ## 🔮 Future Scope
 
@@ -101,13 +102,10 @@ All are located in the `output_images/` folder.
 
 ## 🤝 Contributors
 
-- **Your Name** – Project Developer  
-- Edunet Foundation / AICTE – Project Template
+- **Your Name** – Tulsi Gupta
+- Edunet Foundation / AICTE – Internship project
 
 ---
 
-## 📃 License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
 
